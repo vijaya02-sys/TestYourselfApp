@@ -1,4 +1,4 @@
-package com.quizapp.questionservice.controller;
+package main.com.quizapp.questionservice.controller;
 
 import com.quizapp.questionservice.model.Question;
 import com.quizapp.questionservice.model.QuestionWrapper;
